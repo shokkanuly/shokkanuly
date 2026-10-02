@@ -16,7 +16,6 @@ Final** — Rome, November 2026.
 | [Star Academy](https://github.com/shokkanuly/star-academy) | Online study platform — [one line, what it actually does] | JavaScript · [stack] |
 | [Termohub](https://github.com/shokkanuly/termohub) | Municipal heating monitoring — ESP32 sensor network across Astana | Python · ESP32 |
 | [Traffic Astana](https://github.com/shokkanuly/traffic-astana) | Electric traffic monitoring model for the city | JavaScript · [stack] |
-| [Nalty](https://github.com/shokkanuly/nalty) | [TELL ME WHAT THIS IS] | [stack] |
 
 ### Stack
 
