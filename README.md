@@ -31,6 +31,4 @@ Final** — Rome, November 2026.
 - 2nd place — Republican Physics Olympiad
 - 1st Place - Regional Research Defense in Mathematics — Buketov Karaganda University
 
-### Reach me
 
-[email] · [LinkedIn URL]
